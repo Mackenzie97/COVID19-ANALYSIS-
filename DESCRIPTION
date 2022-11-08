@@ -1,6 +1,6 @@
 Package: COVID19ANALYSIS
-Type: Package
-Title: What the Package Does (Title Case)
+Type: R Package
+Title: What the Package Does (A COVID19 ANALYSIS DONE TO DETERMINE WHICH GENDER HAS THE HIGHEST FATALITY RATE)
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
